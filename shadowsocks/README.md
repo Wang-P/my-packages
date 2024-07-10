@@ -1,1 +1,1 @@
-shadownsocks on openwrt
+shadowsocks on openwrt

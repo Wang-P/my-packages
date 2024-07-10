@@ -1,4 +1,4 @@
 # my-packages of openwrt
 
-vlmcsd
-shadowsocks-libev
+- **vlmcsd**
+- **shadowsocks-libev**

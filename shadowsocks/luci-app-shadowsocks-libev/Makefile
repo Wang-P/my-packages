@@ -13,6 +13,6 @@ PKG_LICENSE:=Apache-2.0
 PKG_MAINTAINER:=Yousong Zhou <yszhou4tech@gmail.com>, \
 	Jian Chang <aa65535@live.com>
 
-include ../../luci.mk
+include $(TOPDIR)/feeds/luci/luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature

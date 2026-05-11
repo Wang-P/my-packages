@@ -1,0 +1,15 @@
+[submodule "openwrt-passwall-packages"]
+	path = openwrt-passwall-packages
+	url = https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git
+[submodule "passwall/passwall2"]
+	path = passwall/passwall2
+	url = https://github.com/Openwrt-Passwall/openwrt-passwall2.git
+[submodule "passwall/passwall"]
+	path = passwall/passwall
+	url = https://github.com/Openwrt-Passwall/openwrt-passwall.git
+[submodule "mosdns"]
+	path = mosdns
+	url = https://github.com/sbwml/luci-app-mosdns.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
